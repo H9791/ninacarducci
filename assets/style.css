@@ -109,7 +109,7 @@ body {
 	content: ' ';
 	background-color: #E5975F;
 	width: 374px;
-	height: 329px;
+	height: 374px;
 	position: absolute;
 	bottom: 0;
 	left: 0;
@@ -303,7 +303,7 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
-@media all and (max-width: 1180px) {
+/* @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
 	}
@@ -317,7 +317,7 @@ input[type="submit"] {
 	#about-me h6, #about-me p {
 		width: 100%;
 	}
-}
+} */
 
 @media all and (max-width: 1000px) {
 	#about{
