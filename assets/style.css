@@ -123,10 +123,10 @@ body {
 }
 
 .picture img {
-	/*width: 100%;*/
-    width: 480px;
+	width: 100%;
+    /*width: 480px;
     height: 480px;
-
+*/
 }
 
 #about-me {
@@ -161,7 +161,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #E5975F;
+	background-color: #a5571F;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -304,7 +304,7 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
-/* @media all and (max-width: 1180px) {
+@media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
 	}
@@ -318,7 +318,7 @@ input[type="submit"] {
 	#about-me h6, #about-me p {
 		width: 100%;
 	}
-} */
+} 
 
 @media all and (max-width: 1000px) {
 	#about{
